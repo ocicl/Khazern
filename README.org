@@ -4,7 +4,7 @@ A portable and extensible Common Lisp LOOP implementation
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/s-expressionists/Khazern.git   |
-| commit  | 8bbe400  |
+| commit  | 8845e3c  |
 | systems | Khazern |
 |---------+-------------------------------------------|
 
