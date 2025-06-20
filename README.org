@@ -3,8 +3,8 @@
 A portable and extensible Common Lisp LOOP implementation
 
 
-|---------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| source  | git:https://github.com/s-expressionists/Khazern.git                                                                                                                                 |
-| commit  | 6f30ca9                                                                                                                                                                             |
-| systems | khazern khazern-extrinsic khazern-intrinsic khazern-elements khazern-elements-extrinsic khazern-elements-intrinsic khazern-stream khazern-stream-extrinsic khazern-stream-intrinsic |
-|---------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|---------+-----------------------------------------------------------------------------------------------------------------------|
+| source  | git:https://github.com/s-expressionists/Khazern.git                                                                   |
+| commit  | 6d58243                                                                                                               |
+| systems | khazern khazern-extrinsic khazern-intrinsic khazern-extension khazern-extension-extrinsic khazern-extension-intrinsic |
+|---------+-----------------------------------------------------------------------------------------------------------------------|
