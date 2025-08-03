@@ -5,6 +5,6 @@ A portable and extensible Common Lisp LOOP implementation
 
 |---------+-----------------------------------------------------------------------------------------------------------------------|
 | source  | git:https://github.com/s-expressionists/Khazern.git                                                                   |
-| commit  | ef9cf1d                                                                                                               |
+| commit  | 4a98fd9                                                                                                               |
 | systems | khazern khazern-extrinsic khazern-intrinsic khazern-extension khazern-extension-extrinsic khazern-extension-intrinsic |
 |---------+-----------------------------------------------------------------------------------------------------------------------|
